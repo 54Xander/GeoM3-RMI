@@ -4,7 +4,7 @@
 
 GeoM3-RMI is a PyTorch framework for predicting RNA-small molecule interactions by integrating RNA sequence, secondary-structure topology, tertiary geometry, small-molecule graphs, and semantic text representations. The model combines modality-specific encoders, adaptive multimodal fusion, cross-entity attention, and contrastive learning within a unified architecture.
 
-![GeoM3-RMI framework](figures/framework.png)
+![GeoM3-RMI framework](figures/framework.jpg)
 
 ## Repository structure
 
